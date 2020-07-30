@@ -13,7 +13,7 @@ router.get('/', function(req, res, next) {
         {
             "userId": 1,
             "id": 2,
-            "title": "куппить еще одну шлюпку",
+            "title": "купить еще одну шляпку",
             "completed": false
         }
     ])
