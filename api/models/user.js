@@ -21,6 +21,6 @@ export default (sequelize, DataTypes) => {
     sequelize,
     modelName: 'User',
   });
-  User.associate = (/* models*/) => {}
+  User.associate = (models) => {}
   return User;
 };
