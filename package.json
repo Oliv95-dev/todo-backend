@@ -18,7 +18,7 @@
   "devDependencies": {
     "clean-css": "^4.2.3",
     "pg": "^8.3.2",
-    "webpack": "^4.44.1"
+    "webpack": "^5.75.0"
   }
   //"scripts": {
    // "dev": "nodemon server.js",}
